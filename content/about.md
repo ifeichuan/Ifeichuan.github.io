@@ -2,7 +2,7 @@
 title: 关于我
 tags: [关于]
 date: 2023-07-13 19:35:43
-draft: true
+draft: false
 hideInList: false
 isTop: false
 feature: false
