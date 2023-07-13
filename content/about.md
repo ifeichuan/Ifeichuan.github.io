@@ -5,7 +5,7 @@ date: 2023-07-13 19:35:43
 draft: true
 hideInList: false
 isTop: false
-feature: true
+feature: false
 ```
 
 
@@ -19,7 +19,7 @@ feature: true
 
 - hugo：[https://gohugo.io](https://gohugo.io)
 - 主题：[木木](https://immmmm.com) 的 [hello-friend](https://github.com/lmm214/immmmm/tree/master/themes/hello-friend)
-- 博客方案（免费）：抄野猫日记的[obsidian+hugo+cloudflare](https://lillianwho.com/posts/obsidian-hugo-cloudflare/)
+- 博客方案（免费）：抄夜猫日记大大的[obsidian+hugo+cloudflare](https://lillianwho.com/posts/obsidian-hugo-cloudflare/)
 - 本站源码：https://github.com/ifeichuan/ifeichuan.github.io
 
 
