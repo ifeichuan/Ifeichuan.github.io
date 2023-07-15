@@ -2,8 +2,8 @@
 title: 关于我
 tags: [博客,关于我]
 date: 2023-07-13 19:35:43
-draft: true
-hideInList: false
+draft: false
+hideInList: true
 layout: posts
 feature: false
 ---

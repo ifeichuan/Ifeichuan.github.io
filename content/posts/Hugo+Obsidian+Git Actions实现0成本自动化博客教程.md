@@ -2,7 +2,7 @@
 title: Hugo+Obsidian+Git Actions实现0成本自动化博客教程
 tags: [博客,教程,Github]
 date: 2023-07-15 18:10:09
-draft: true
+draft: false
 hideInList: false
 isTop: false
 feature: 
