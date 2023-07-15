@@ -1,4 +1,4 @@
 ---
-title: "闲聊"
+title: "BB机"
 slug: "chat"
 ---
