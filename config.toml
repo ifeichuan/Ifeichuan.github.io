@@ -15,17 +15,21 @@ rssLimit = 5
 
 [menu]
   [[menu.main]]
+  name="BB机"
+  url="/posts/chat/"
+  weight="1"
+  [[menu.main]]
   name="归档"
   url="/archives/"
-  weight="1"
+  weight="2"
   [[menu.main]]
   name="关于我"
   url="/about/"
-  weight="2"
+  weight="3"
   [[menu.main]]
   name="🔍"
   url="/search/"
-  weight="3"
+  weight="4"
 
 
 
