@@ -35,6 +35,12 @@ Quartz 是一款开源的静态网站生成器，和许多常见的生成器不�
 感觉很像 Obsidian 的网页版。
 
 让我们康康它的具体模样：
+
+日间模式：
+![image.png](https://s2.loli.net/2023/08/26/D3pLim8tcS1rMkU.png)
+
+
+夜间模式：
 ![image.png](https://s2.loli.net/2023/08/26/AKfaE1dHs4uS92c.png)
 
 ## 开始
@@ -49,3 +55,17 @@ cd quartz
 npm i
 npx quartz create
 ```
+
+然后大概是酱紫
+
+![image.png](https://s2.loli.net/2023/08/26/oQte5gHbUDKXZ49.png)
+
+然后我们输入
+
+```
+npx quartz build --server
+```
+
+![image.png](https://s2.loli.net/2023/08/26/ZJ7fYG4tBACUucr.png)
+
+未完待续...
