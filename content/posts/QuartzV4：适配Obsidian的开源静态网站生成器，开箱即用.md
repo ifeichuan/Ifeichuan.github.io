@@ -1,5 +1,5 @@
 ---
-title: Quartz：适配Obsidian的Hugo主题
+title: QuartzV4：适配Obsidian的Hugo主题
 tags: [主题,Hugo,Obsidian,Blog]
 date: 2023-08-26 00:06:30
 draft: true
@@ -11,6 +11,7 @@ feature:
 ## 前言：
 
 笔者能力较差，详情请看：
+
 [Welcome to Quartz 4](https://quartz.jzhao.xyz/#-get-started)
 
 [GitHub - jackyzha0/quartz: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites](https://github.com/jackyzha0/quartz)
